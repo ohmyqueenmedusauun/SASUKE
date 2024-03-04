@@ -55,12 +55,12 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Copy a telegram your group.",
-        "value": "https://t.me/FoRBIDDen_FeeLinG10",
+        "value": "https://t.me/FoRBIDDen_FeeLinG5",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Copy a telegram your Channel.",
-        "value": "https://t.me/FoRBIDDen_FeeLinG5",
+        "value": "https://t.me/FoRBIDDen_FeeLinG10",
         "required": true
       },
       "LOGGER_ID": {
