@@ -53,7 +53,7 @@
         "value": "",
         "required": false
       },
-      "SUPPORT_CHAT": {
+      "SUPPORT_GROUP": {
         "description": "Copy a telegram your group.",
         "value": "https://t.me/FoRBIDDen_FeeLinG10",
         "required": true
