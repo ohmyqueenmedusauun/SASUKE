@@ -1,8 +1,8 @@
 {
-    "name": "╰•★★ ʄơཞცıɖɖɛŋ ɱųʂıƈ ★★•╯",
-    "repository": "https://github.com/Zenaku10/AnonXMusic",
+    "name": "𝔣○ｒ𝐁ìժժҽղ ✘ ᴍᴜsɪᴄ",
+    "repository": "https://github.com/ohmyqueenmedusauun/SASUKE",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://te.legra.ph/file/1db76d0b5ab130f93eae6.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "24795599",
+        "value": "21025465",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "b5bf7b421f0d4d84babda392dcf38e0c",
+        "value": "429c35d8e881de7c7814f4b2590050c1",
         "required": true
       },
       "BOT_TOKEN": {
@@ -54,18 +54,18 @@
         "required": false
       },
       "SUPPORT_CHANNEL": {
-        "description": "Copy a telegram your group.",
-        "value": "https://t.me/FoRBIDDen_FeeLinG5",
+        "description": "Copy a telegram your channel.",
+        "value": "https://t.me/seriousvs_version20",
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Copy a telegram your Channel.",
-        "value": "https://t.me/FoRBIDDen_FeeLinG10",
+        "description": "Copy a telegram your group.",
+        "value": "https://t.me/seriosvs_version10",
         "required": true
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002020845157",
+        "value": "-1001835045094",
         "required": true
       }
     },
